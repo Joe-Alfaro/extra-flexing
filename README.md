@@ -1,5 +1,5 @@
 # extra-flexing
-A challenge for students looking to get ready for their first sprint
+A challenge for students looking to push their flexbox skills or try their hand at CSS Grid.
 
 Check assets/design-files for the page that we are looking to mimic. 
 
