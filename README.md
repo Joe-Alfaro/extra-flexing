@@ -11,7 +11,7 @@ Feel free to use flex box or grid... grid you say? https://css-tricks.com/snippe
 
 A row of buttons and one is selected. I will suggest to style all the buttons like the unselected. And then add a class "selected" to the first one and style that class to make it look different. Check stretches after that.
 
-STRETCHES
+## STRETCHES
 Add more photos, you can get them from https://unsplash.com
 
 Can you make those buttons work? Like click a different one and move the "selected" class to it and take it off the last one? This is not an easy task, it will require some Javascript you have not seen at Lambda yet https://stackoverflow.com/questions/32979044/move-class-between-elements-with-pure-javascript-without-using-jquery
