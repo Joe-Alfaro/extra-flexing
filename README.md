@@ -1,14 +1,14 @@
 # EXTRA-FLEXING
 A challenge for students looking to push their flexbox skills or try their hand at CSS Grid.
 
-Check assets/design-files for the page that we are looking to mimic. 
+Check assets/design-files for the page that we are looking to mimic. I prefer to have the buttons betweent he header and photo gallery but to each their own.
 
 Notice the gradient header. May want to look up gradients for background images...  
 There's some text there, might I suggest https://hipsum.co to get some humerous filler text. Come up with your own header.
 
 You can find some images in assets/images. Notice the images are all different sizes but the widths are uniform and the heights maintain the aspect ratio. Hmmmmm..... https://www.w3schools.com/css/css3_images.asp <br/>
 Feel free to use flex box or grid... grid you say? https://css-tricks.com/snippets/css/complete-guide-grid/ <br/> 
-If you choose to use flexbox there will be white space between the rows, and that's ok. Or you're better at flexbox than me and you can fix that, I don't know your life.
+If you choose to use flexbox consider columns over rows.
 
 A row of buttons and one is selected. I will suggest to style all the buttons like the unselected. And then add a class "selected" to the first one and style that class to make it look different. Check stretches after that.
 
