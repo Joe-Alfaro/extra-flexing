@@ -1,6 +1,19 @@
-const moveSelected = () => {
-  //Do you dare take this on? Maybe look into JQuery, 
-  //it's not taught at Lambda since it has nothing to do with React 
-  //but it's still alive out there since the internet was built on it for a long time. 
-  //Good luck.
+const removeSelected = links => {
+  for(let i = 0; i < links.length; i++){
+    links.item(i).classList.remove('selected');
+  }
+};
+
+const addSelected = link => {
+  link.classList.add('selected');
+};
+
+const updateSelected = (links, link) => {
+  removeSelected(links);
+  addSelected(link);
+};
+
+const links = document.getElementsByClassName('nav-link');
+for(let i = 0; i < links.length; i++){
+  links[i].addEventListener('click', () => updateSelected(links, links[i]))
 }
