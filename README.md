@@ -8,7 +8,7 @@ There's some text there, might I suggest https://hipsum.co to get some humerous 
 
 You can find some images in assets/images. Notice the images are all different sizes but the widths are uniform and the heights maintain the aspect ratio. Hmmmmm..... https://www.w3schools.com/css/css3_images.asp <br/>
 Feel free to use flex box or grid... grid you say? https://css-tricks.com/snippets/css/complete-guide-grid/ <br/> 
-If you choose to use flexbox there will be white space between the rows, and that's ok. Or you're better at flexbox than me and you can fix that, I don't know your life.
+If you choose to use flexbox consider columns over rows.
 
 A row of buttons and one is selected. I will suggest to style all the buttons like the unselected. And then add a class "selected" to the first one and style that class to make it look different. Check stretches after that.
 
