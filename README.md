@@ -1,7 +1,7 @@
 # EXTRA-FLEXING
 A challenge for students looking to push their flexbox skills or try their hand at CSS Grid.
 
-Check assets/design-files for the page that we are looking to mimic. I prefer to have the buttons betweent he header and photo gallery but to each their own.
+Check assets/design-files for the page that we are looking to mimic.
 
 Notice the gradient header. May want to look up gradients for background images...  
 There's some text there, might I suggest https://hipsum.co to get some humerous filler text. Come up with your own header.
