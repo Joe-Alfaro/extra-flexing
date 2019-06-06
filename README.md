@@ -1,4 +1,4 @@
-# extra-flexing
+# EXTRA-FLEXING
 A challenge for students looking to push their flexbox skills or try their hand at CSS Grid.
 
 Check assets/design-files for the page that we are looking to mimic. 
