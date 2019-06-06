@@ -85,22 +85,22 @@ nav {
   display: flex;
   justify-content: space-around;
   width: 1000px;
-  margin: 10px auto 0 auto;
+  margin: 45px auto;
 }
 
-nav a{
-  border: 1px solid #164652;
+nav .nav-link{
+  border: 2px solid #164652;
   border-radius: 50px;
   color: #164652;
   background-color: white;
   font-size: 2rem;
-  padding: 5px 15px;
+  padding: 15px 35px;
 }
 
-nav a:hover, nav .selected{
+nav .navlink:hover, nav .selected{
   color: white;
   background-color: #369ECD;
-  border: 1px solid #369ECD;
+  border: 2px solid #369ECD;
 }
 
 /* photo gallery */
@@ -109,7 +109,7 @@ nav a:hover, nav .selected{
   flex-flow: column wrap;
   height: 1700px;
   width: 1500px;
-  margin: 15px auto;
+  margin: 0 auto;
 }
 
 .photo-gallery img {
