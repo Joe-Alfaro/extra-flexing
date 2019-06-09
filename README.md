@@ -1,6 +1,6 @@
 # EXTRA-FLEXING
 A challenge for students looking to push their flexbox skills or try their hand at CSS Grid.
-
+christine
 Check assets/design-files for the page that we are looking to mimic.
 
 Notice the gradient header. May want to look up gradients for background images...  
